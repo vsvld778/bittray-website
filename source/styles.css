@@ -182,6 +182,10 @@ li + li { margin-top: 8px; }
 .sidebar a:hover, .sidebar a[aria-current] { background: var(--pale); border-left-color: var(--blue); color: var(--blue); }
 .sidebar .button { margin: 20px 18px 0; width: calc(100% - 36px); font-size: 13px; padding: 11px; min-height: 44px; color: white; }
 .sidebar .button:hover { background: var(--blue-hover); }
+.sidebar > h2 { padding-inline: 22px; font-size: 17px; margin-bottom: 16px; }
+.sidebar > .link-list { margin: 0 0 20px; }
+.sidebar > .link-list a { padding: 12px 22px; font-size: 14px; line-height: 1.5; border-left: 3px solid transparent; }
+.sidebar > .link-list a[aria-current] { border-left-color: var(--blue); }
 .content { min-width: 0; }
 .content-section { padding-block: 40px; border-bottom: 1px solid var(--line); }
 .content-section:first-child { padding-top: 0; }
@@ -347,7 +351,7 @@ li + li { margin-top: 8px; }
   .section-heading > .section-intro { max-width: 320px; }
   .page-intro-grid { grid-template-columns: 1.4fr 1fr; gap: 30px; }
   .page-layout { grid-template-columns: 1fr; padding-top: 35px; gap: 35px; }
-  .sidebar { position: static; padding: 20px; display: flex; align-items: center; flex-wrap: wrap; gap: 8px 20px; }
+  .sidebar { display: none; }
   .sidebar h3, .sidebar h4, .sidebar > p { flex-basis: 100%; padding: 0; margin-bottom: 3px; }
   .sidebar nav { display: flex; flex-wrap: wrap; gap: 8px 20px; }
   .sidebar > a, .sidebar nav a { padding: 7px 0; border: 0; }

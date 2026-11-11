@@ -122,3 +122,34 @@
 Ссылки в таблицах ведут на страницы, на основании которых составлены описания. Исходные тематические исследования: `MARKET-RF-integration-security.md`, `MARKET-RF-crm-erp.md` и `MARKET-RF-vision.md` в рабочей папке `bittray-local`. В объединённый отчёт перенесены все строки трёх рыночных выборок; подробные редакционные структуры страниц оставлены в исходных исследованиях.
 
 Отчёт служит основой для структуры и наполнения сайта. Это внутренний исследовательский материал, а не список партнёров, клиентов или внедряемых продуктов БитТрай. Перед публичным заявлением конкретной услуги, технологии или партнёрства требуется подтверждение самой компании.
+
+
+## Дополнительная проработка функционального содержания — 12 ноября 2026
+
+На основе официальных описаний подготовлены оригинальные тексты: 40 функциональных блоков, 20 вариантов интеграции и 10 примеров рабочих сценариев. Это материал для позиционирования БитТрай, а не перенос чужих результатов внедрений или партнёрских статусов.
+
+### expanded-crm-erp
+
+- https://www.naumen.ru/products/crm/
+- https://www.bitrix24.ru/features/crm/
+- https://helpdesk.bitrix24.ru/open/25817644/
+- https://helpdesk.bitrix24.ru/open/23240636/
+- https://v8.1c.ru/erp/funktsionalnost-1s-erp/
+- https://v8.1c.ru/erp/treasury/
+- https://v8.1c.ru/erp/cost_management/
+
+### expanded-integration-security
+
+- https://icl-services.com/services/integratsiya-po/
+- https://jet.su/services/sistemy-konsolidatsii-dannykh/
+- https://rvision.ru/products/siem
+- https://rt-solar.ru/services/jsoc/monitoring-asutp/
+- https://jet.su/services/obespechenie-bezopasnosti-asu-tp/
+
+### expanded-vision
+
+- https://vizorlabs.ru/products/health-safety/
+- https://vizorlabs.ru/upload/iblock/080/cyo37vaifvsunp4erfvom310b8thfu50/CONVEYRO_functionality_guide.pdf
+- https://doc.macroscop.com/specification/extended-analytics.htm
+- https://solutions.trassir.ru/industry
+- https://www.itv.ru/resheniya/zadachi/ohrana-truda
