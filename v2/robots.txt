@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vsvld778.github.io/bittray-website/v2/sitemap.xml
